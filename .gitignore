@@ -1,3 +1,5 @@
 *.java
 *.php
 *.txt
+
+!onenew.java
