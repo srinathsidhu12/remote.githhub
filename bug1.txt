@@ -1,1 +1,1 @@
-This is the bug file to resolve bug in master branch from master master branch
+This is the bug file to resolve bug in master branch made changes by the involvment of manager
